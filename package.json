@@ -1,0 +1,12 @@
+{
+  "name": "react-a11y-auto-analyser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT","scripts": {
+    "analyse": "node analyse.js"
+  },
+  "dependencies": {
+    "axe-core": "^4.9.1",
+    "puppeteer": "^22.13.1"
+  }
+}
